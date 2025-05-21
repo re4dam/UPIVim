@@ -10,3 +10,9 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - Java
 - PHP
 - Flutter Framework (Dart)
+
+# Theme
+OneDark esthetic theme
+
+# Plugins
+- Multi Cursor
